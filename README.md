@@ -2,11 +2,11 @@
 I'm highschool student and a hobbyist. I mainly know C#, Java, C++, web stuff and Unity. I'm working on some private projects but nothing serious...
 
 ### What I'm a part of 👨‍💻
-* Project manager for [Azurite](https://github.com/Games-With-Gabe-Community/Azurite), 2D Java game engine
-* Plugin Developer for BlueCommander's Server Network
+* Project manager for [Azurite](https://github.com/Games-With-Gabe-Community/Azurite), a 2D Java game engine
+* Plugin Developer for BlueCommander's Minecraft Server Network
 
 ### How to reach me 📫
-* Discord - 'Tree#3716'
+* Discord - `Tree#3716`
 
 <!--
 **IAmTree/IAmTree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
