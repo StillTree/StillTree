@@ -1,5 +1,5 @@
 ### Hello 👋
-I'm highschool student and a hobbyist. I mainly know C#, Java, C++, web stuff and Unity. I'm working on some private projects but nothing serious...
+I'm high school student and a hobbyist. I mainly know C#, Java, C++, web stuff and Unity. I'm working on some private projects but nothing serious...
 
 ### What I'm a part of 👨‍💻
 * Project manager for [Azurite](https://github.com/Games-With-Gabe-Community/Azurite), a 2D Java game engine
