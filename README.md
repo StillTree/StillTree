@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hello 👋
+I'm highschool student and a hobbyist. I mainly know C#, Java, C++, web stuff and Unity. I'm working on some private projects but nothing serious...
+
+### What I'm a part of 👨‍💻
+* Project manager for [Azurite](https://github.com/Games-With-Gabe-Community/Azurite), 2D Java game engine
+* Plugin Developer for BlueCommander's Server Network
+
+### How to reach me 📫
+* Discord - 'Tree#3716'
 
 <!--
 **IAmTree/IAmTree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +22,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
