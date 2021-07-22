@@ -5,8 +5,9 @@ I'm a high school student and a hobbyist. I mainly know C#, Java, C++, web stuff
 * Project manager for [Azurite](https://github.com/Games-With-Gabe-Community/Azurite), a 2D Java game engine
 * Plugin Developer for BlueCommander's Minecraft Server Network
 
-[![My stats](https://github-readme-stats.vercel.app/api?username=IAmTree&count_private=true&show_icons=true&theme=gruvbox&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IAmTree&theme=gruvbox&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+### My statistics 📈
+[![My Stats](https://github-readme-stats.vercel.app/api?username=IAmTree&count_private=true&show_icons=true&theme=gruvbox&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
+[![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IAmTree&theme=gruvbox&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### How to reach me 📫
 * Discord - `Tree#3716`
