@@ -6,7 +6,7 @@ I'm a high school student, hobbyist, game and game engine developer. I mainly kn
 * Plugin Developer for BlueCommander's Minecraft Server Network
 
 ### My statistics 📈
-[![My Stats](https://github-readme-stats.vercel.app/api?username=IAmTree&count_private=true&show_icons=true&theme=gruvbox&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
+[![My Stats](https://github-readme-stats.vercel.app/api?username=IAmTree&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 [![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IAmTree&theme=gruvbox&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### How to reach me 📫
