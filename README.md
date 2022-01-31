@@ -10,7 +10,7 @@ I'm a high school student, hobbyist, game and game engine developer. I mainly kn
 [![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IAmTree&theme=gruvbox&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### How to reach me 📫
-* Discord - `Tree#2280`
+* Discord - `StillTree#6969`
 
 <!--
 **IAmTree/IAmTree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
