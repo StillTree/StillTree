@@ -1,5 +1,5 @@
 ### Hello 👋
-I'm a high school student, hobbyist, game and game engine developer. I mainly know C#, Java, C++ and web stuff. I am currently working on my game engine called [Saturn Engine](https://github.com/StilTree/SaturnEngine).
+I'm a high school student, hobbyist, game and game engine developer. I mainly know C#, Java, C++ and web stuff. I am currently working on my game engine called [Saturn Engine](https://github.com/StillTree/SaturnEngine).
 
 ### What I'm a part of 👨‍💻
 * Project manager for [Azurite](https://github.com/Games-With-Gabe-Community/Azurite), a 2D Java game engine
