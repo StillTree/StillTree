@@ -1,5 +1,5 @@
 ### Hello 👋
-I'm a high school student, hobbyist programmer and Junior DevOps Engineer at Airlan Technologie Sieciowe. My skills include Azure, Kubernetes, Docker, Terraform, the DevOps metodology, CI/CD on both GitHub and GitLab, of course Git itself, somewhat Windows Server and good ol' Hyper-V.
+I'm a student, hobbyist programmer and I'm primarily interested in operating system development and everything low-level and/or assembly related :D
 
 ### My statistics 📈
 [![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StillTree&theme=vue-dark&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
